@@ -1,1 +1,2 @@
 primeros pasos con git
+modificamos el archivo
